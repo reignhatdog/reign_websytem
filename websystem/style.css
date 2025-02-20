@@ -1,0 +1,252 @@
+body {
+  background-image: url('Nike-logo.webp'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+
+}
+body {  
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #cfc5c5;
+  color: #ffffff;
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #72571c;
+  color: #ffffff;
+  padding: 10px 20px;
+}
+
+header .logo h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+header nav ul li {
+  margin: 0 15px;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header .cart a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.hero {
+  background-image: url('https://via.placeholder.com/1200x400');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero-content h2 {
+  font-size: 48px;
+  margin: 0;
+}
+
+.hero-content p {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.hero-content .btn {
+  background-color: #ff6600;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+
+.featured-products {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.featured-products h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.product-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  background-color: #505050;
+  border: 8px solid #141414;
+  border-radius: 5px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-card h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.product-card p {
+  font-size: 16px;
+  color: #ff6600;
+  margin: 10px 0;
+}
+
+.product-card button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.product-card button:hover {
+  background-color: #ff6600;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+footer .footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+footer ul li {
+  margin: 0 15px;
+}
+
+footer ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.registration-form {
+ 
+  padding: 50px;
+  width: 50x;
+}
+
+.registration-form h2 {
+  margin-bottom: 5px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 1px;
+  font-weight: bold;
+}
+
+.form-group input, .form-group textarea {
+  width: 20%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 8px solid #7c500f;
+  border-radius: 4px;
+}
+
+.form-group button {
+  width: 20%;
+  padding: 10px;
+  background-color: #ac1a00;
+  color: #fff;
+  border: none ;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.form-group button:hover {
+  background-color: #00dd12;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
